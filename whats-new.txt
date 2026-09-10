@@ -1,1 +1,3 @@
-
+Version 1.0
+- First release of the EXM Updater
+- Auto-downloads updates and opens AME for you
