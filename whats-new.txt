@@ -1,9 +1,6 @@
-Version 1.2
--  Improved smart system detection
--  Improved Laptop detection
--  Improved debloating profile
--  Reworked playbook setting
--  Reworked AME Wizard Requirments
--  Added EXM Process Manager v1
--  Added EXM Snipping v1
--  Tons more...
+Version 1.25
+- Updated all EXM apps for better performance
+- Updated Smart system detections
+- Improved debloating profiles 
+- Eliminated Power saving features for USB and network card
+- Added tons of new system tunings
