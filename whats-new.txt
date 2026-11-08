@@ -1,6 +1,6 @@
-Version 1.25
-- Updated all EXM apps for better performance
-- Updated Smart system detections
-- Improved debloating profiles 
-- Eliminated Power saving features for USB and network card
-- Added tons of new system tunings
+Version 1.28
+- Fixed slow explorer issue
+- Added installation counter
+- General fixes and changes 
+- Improved scripts syntax
+- Added reverts for new users
