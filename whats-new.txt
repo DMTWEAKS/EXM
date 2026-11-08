@@ -1,6 +1,3 @@
-Version 1.28
-- Fixed slow explorer issue
-- Added installation counter
-- General fixes and changes 
-- Improved scripts syntax
-- Added reverts for new users
+Version 1.281
+- Fixed stuck on disable defender script, you dont need to update if you have no issues with current build
+
